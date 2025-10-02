@@ -1,4 +1,4 @@
-# YieldSpace for Tokenized Vaults
+# YieldSpace v2
 
 #### DISCLAIMER: Please do not use in production without taking the appropriate steps to ensure maximum security. This code is provided as-is, with no guarantees of any kind.
 
